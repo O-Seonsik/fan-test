@@ -12,3 +12,7 @@ img{
 img:hover{
     cursor: pointer;
 }
+
+#backend-data{
+    font-size: 2rem;
+}
